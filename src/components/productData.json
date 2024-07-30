@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "title": "HP Laptop 15, AMD Ryzen 3 7320U, 15.6-inch (39.6 cm), FHD, 8GB LPDDR5",
+        "price": "35,999",
+        "description": "Brand HP,ModelName 15-fc0025AU,ScreenSize 39.6 Centimetres,Colour Natural Silver,HardDisk-Size 512 GB,CPUModel Ryzen 3,RAM Memory Installed Size 8 GB",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/71VomszPCAL._SL1500_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      
+    {
+        "id": 2,
+        "title": "Dell G15 5520 Gaming Laptop, Intel i5-12500H/16GB DDR5/1TB SSD/15.6(39.62cm) FHD WVA AG 120Hz 250 nits",
+        "price": "75,000",
+        "description": "Brand Dell,ModelName Dell Gaming G15,ScreenSize 15.6 Inches,Colour Grey,HardDisk-Size 1 TB,CPUModel Core i5,RAMMemory 16 GB,OperatingSystem Windows 11 Home",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/51rEPuvNYFL._SL1080_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Dell 2021 Newest Latitude 3520 15 15.6 FHD Business Laptop, Intel Quad-Core i5-1135G7 up to 4.2GHz (Beat i7-1065G7)",
+        "price": "1,25,000",
+        "description": "Brand Dell,ModelName Latitude,ScreenSize 15.6 Inches,HardDisk-Size 128 GB,RAMMemory 8 GB,OperatingSystem Windows 10 Pro,SpecialFeature Anti Glare Screen, Webcam, Backlit Keyboard,Graphics Card Description Intel uhd graphics,GraphicsCoprocessor Intel UHD Graphics,HardDisk SSD",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/61UU0Wd6RaL._SL1500_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "HP Victus Gaming Laptop AMD Ryzen™ 7 7840HS, 40.9 cm (16.1inch) FHD (1920 x 1080), 144 Hz (16GB, 1TB)",
+        "price": "84,490",
+        "description": "Brand HP,ModelName 16-s0094AX,ScreenSize 40.9 Centimetres,Colour Performance Blue,HardDisk-Size 1 TB,CPUModel Ryzen 7,RAMMemory 16 GB,OperatingSystem Windows 11 Home,SpecialFeature FHD, Backlit Keyboard, Micro-Edge Display, Anti-Glare",
+        "category": "Laptops",
+        "image": "https://m.media-amazon.com/images/I/71YIPsnuJvL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Apple iPhone 14 Pro (128 GB)",
+        "price": "1,19,900",
+        "description": "Brand Apple,ModelName IPhone,NetworkService Provider Unlocked for All Carriers,OperatingSystem IOS,Cellular-Technology   5G",
+        "category": "Mobile",
+        "image": "https://m.media-amazon.com/images/I/61XO4bORHUL._SL1500_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Samsung Galaxy S23 Ultra 5G (Green, 12GB, 256GB Storage)",
+        "price": "1,24,999",
+        "description": "Brand Samsung,ModelName Samsung Galaxy S23 Ultra,NetworkService Provider Unlocked for All Carriers,OperatingSystem Android 13.0,Cellular-Technology 5G",
+        "category": "Mobile",
+        "image": "https://m.media-amazon.com/images/I/61VfL-aiToL._SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "Samsung Galaxy Z Flip5 5G (Graphite, 8GB RAM, 256GB Storage)",
+        "price": "99,999",
+        "description": "Brand Samsung,ModelName Samsung Galaxy Z Flip5,NetworkService Provider Unlocked for All Carriers,OperatingSystem Android 13.0,Cellular-Technology 5G",
+        "category": "Mobile",
+        "image": "https://m.media-amazon.com/images/I/71U+YdsvMPL._SL1500_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "OnePlus 11R 5G (Sonic Black, 16GB RAM, 256GB Storage)",
+        "price": "45,000",
+        "description": "Brand Samsung,ModelName OnePlus 11R,NetworkService Provider Unlocked for All Carriers,OperatingSystem OxygenOS,Cellular-Technology 5G",
+        "category": "Mobile",
+        "image": "https://m.media-amazon.com/images/I/71qjUzUt+ML._SL1500_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch with Rugged Titanium Case & Indigo Alpine Loop Medium. Fitness Tracker, Precision GPS, Action Button",
+        "price": "88,000",
+        "description": "Brand Apple,Style Modern,Colour Indigo Alpine Loop,ScreenSize 49 Millimetres,SpecialFeature GPS",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/81h-tgpSt+L._SL1500_.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "Noise Pulse 2 Max 1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness",
+        "price": "2500",
+        "description": "Brand Noise,ModelName ColorFit Pulse 2 Max,Style Modern,Colour Black,ScreenSize 1.85 Inches",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/61SSVxTSs3L._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Noise Pulse 2 Max 1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness",
+        "price": "1500",
+        "description": "Brand Noise,ModelName ColorFit Pulse 2 Max,Style Modern,Colour Black,ScreenSize 1.85 Inches",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 12,
+        "title": "Apple Watch SE (2nd Gen) [GPS 44 mm] Smart Watch w/Starlight Aluminium Case & Starllight Sport Band. Fitness & Sleep Tracker Crash",
+        "price": "32,000",
+        "description": "Brand Noise,ModelName ColorFit Pulse 2 Max,Style Modern,Colour Black,ScreenSize 1.85 Inches",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/71XBcl6bNjL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 13,
+        "title":"Apple Watch SE (2nd Gen, 2023) [GPS 40mm] Smartwatch with Starlight Aluminum Case with Starlight Sport Loop One Size",        
+        "price": "25,450",
+        "description": "Brand Apple,ModelName ColorFit Pulse 2 Max,Style Modern,Colour Black,ScreenSize 1.85 Inches",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/719qgNv-ubL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 14,
+        "title":"Fastrack Limitless FS1 Pro Smart Watch|1.96 Super AMOLED Arched Display with 410x502 Pixel",
+        "price": "5,000",
+        "description": "Brand Fastrack,ModelName ColorFit Pulse 2 Max,Style Modern,Colour Black,ScreenSize 1.85 Inches",
+        "category": "Watches",
+        "image": "https://m.media-amazon.com/images/I/81jTH37c73L._SL1500_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 15,
+        "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic",
+        "price": "1450",
+        "description":"Brand BoAt,ModelName Rockerz 450,Colour Luscious Black,FormFactor On Ear",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/51xxA+6E+xL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Sennheiser HD 450SE (ANC) Bluetooth 5.0 Wireless Over Ear Headphone with Mic",
+        "price": "900",
+        "description":"Brand Sennheiser,ModelName HD 450SE,Colour Black,FormFactor Over Ear",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/61Wiw8zIwvL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 17,
+        "title": "ZEBRONICS Zeb-Thunder PRO On-Ear Wireless Headphone with BTv5.0",
+        "price": "900",
+        "description":"Brand ZEBRONICS,ModelName ZEB-THUNDER PRO(BLACK) 450,Colour Black,FormFactor On Ear",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/61Eqeb950eL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 18,
+        "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic",
+        "price": "1450",
+        "description":"Brand BoAt,ModelName Rockerz 450,Colour Luscious Black,FormFactor On Ear",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/51xxA+6E+xL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 19,
+        "title": "Srhythm NC25 Wireless Headphones Bluetooth 5.",
+        "price": "7800",
+        "description":"Brand Srhythm,ModelName NC25,Colour Mint Green,FormFactor Over Ear,ConnectivityTechnology Wireless",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/61wbr2lSdJL._SL1500_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 20,
+        "title": "JBL Tune 720BT Wireless Over Ear Headphones with Mic",
+        "price": "5000",
+        "description":"Brand JBL,ModelName Rockerz 450,Colour Luscious Black,FormFactor On Ear",
+        "category": "HeadPhones",
+        "image": "https://m.media-amazon.com/images/I/512IpxX9s+L._SL1500_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    }
+]
